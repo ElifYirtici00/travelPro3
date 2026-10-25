@@ -9,7 +9,7 @@ Full-stack travel management project with a Spring Boot backend and React/Vite f
 - Node.js and npm
 - 
 ## 🛠️ Tech Stack / Kullanılan Teknolojiler
-**Frontend:** React, Vite, [Kullandıysanız örn: Tailwind CSS, Axios]
+**Frontend:** React, Vite
 **Backend:** Java 21, Spring Boot, Spring Data JPA
 **Database:** MySQL
 
